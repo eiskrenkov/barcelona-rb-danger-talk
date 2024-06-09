@@ -1,5 +1,7 @@
 # Barcelona.rb - Danger talk
 
+![Barcelona.rb](assets/logo.png?raw=true)
+
 Did you already stop saying "you forgot to..." in your code reviews? :D
 
 - Me - https://iskrenkov.me
