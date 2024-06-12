@@ -4,6 +4,8 @@
 
 Did you already stop saying "you forgot to..." in your code reviews? :D
 
+[Slides](https://docs.google.com/presentation/d/1dh5uDPwbprP4gV88vAKlv8NBxkuSeq9lCyLn1RBOAsg/edit?usp=sharing)
+
 - Me - https://iskrenkov.me
 - Danger - https://danger.systems
 
